@@ -1,0 +1,6 @@
+To connect IFTTT with google Assistant
+Install Google Home in Your Android
+Go To Settings
+Works with Google
+Search for IFTTT (Give Authorise and connect)
+Then Give the Command(Ex: Ok Google, Activate Turn On Light)
